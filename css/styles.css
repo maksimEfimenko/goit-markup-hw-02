@@ -22,7 +22,7 @@ body{
     font-size: 16px ;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:  #2e2f42; 
 }
 .header-menu-link{
 }
@@ -33,14 +33,14 @@ body{
 .address{ 
     font-style: normal;
 }
-.header-address-ul{
+.header-emeil{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
 }
-.header-address-ul:focus,
-.header-address-ul:hover{
+.header-emeil:hover,
+.header-emeil:focus{
     color: #404bbf;
 }
 /*--Main--*/
