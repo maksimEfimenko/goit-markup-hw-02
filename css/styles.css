@@ -39,8 +39,11 @@ body{
     letter-spacing: 0.02em;
     color:#434455;
 }
-.header-emeil:hover,
-.header-emeil:focus{
+.header-a-emeil{
+    color:#434455;
+}
+.header-a-emeil:hover,
+.header-a-emeil:focus{
     color: #404bbf;
 }
 /*--Main--*/
