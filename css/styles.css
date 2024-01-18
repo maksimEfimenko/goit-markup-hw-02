@@ -26,6 +26,23 @@ body{
 }
 .header-menu-link{
 }
+.header-menu-link:hover,
+.header-menu-link:focus{
+    color:#404bbf;
+}
+.address{ 
+    font-style: normal;
+}
+.header-emeil{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+.header-emeil:focus,
+.header-emeil:hover{
+    color: #404bbf;
+}
 /*--Main--*/
 /*----Section 1----*/
 /*----Section 2----*/
