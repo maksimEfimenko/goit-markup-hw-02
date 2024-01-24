@@ -91,17 +91,24 @@ body{
 .section-thre{
     background-color: #F4F4FD;
 }
-.section-thre-h{
+.section-thre-h-two{
     font-family: Roboto;
 font-size: 36px;
 font-style: normal;
 font-weight: 700;
-line-height:1,11;
+line-height:1.11;
 letter-spacing: 0.72px;
 text-transform: capitalize;
+color:#2e2f42;
 }
 .section-thre-li{
     background-color: #FFFFFF;
+}
+.section-thre-h{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 .section-thre-p{
     font-size: 16px;
