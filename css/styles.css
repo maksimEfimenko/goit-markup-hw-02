@@ -92,7 +92,6 @@ body{
     background-color: #F4F4FD;
 }
 .section-thre-h-two{
-    font-family: Roboto;
 font-size: 36px;
 font-style: normal;
 font-weight: 700;
@@ -127,5 +126,20 @@ color:#2e2f42;
     letter-spacing: 0.72px;
     text-transform: capitalize;
     text-align: center;
+}
+.section-four-h{
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color:#2e2f42 ;
+}
+.section-four-p{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 /*--Footer--*/
