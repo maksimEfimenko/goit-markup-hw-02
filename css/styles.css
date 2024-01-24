@@ -150,13 +150,14 @@ color:#2e2f42 ;
     color: #f4f4fd;
 }
 .footer-a{
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 0.17;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+color:#4d5ae5;
 }
 .footer-p{
     font-size: 16px;
